@@ -1,0 +1,33 @@
+.caro-button{
+  
+  color: white;
+  background-image: linear-gradient(45deg,black,rgb(97, 25, 25));
+  border: none;
+}
+
+.see{
+  color: orange;
+}
+
+.middle{
+  margin: 50px 0px;
+}
+
+.card{
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-footer{
+  border: none;
+  background-color: white;
+}
+.mini-img{
+  margin: 20px 0;
+}
+.categories{
+  margin-top: 50px;
+}
+.under img{
+  width: 15%;
+}
